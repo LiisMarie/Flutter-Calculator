@@ -1,6 +1,6 @@
 # Calculator
 
-Calculator is written in Flutter for both Android and iOS.
+Calculator is written in **Flutter** for both **Android** and **iOS**.
 
 Calculator implementation that uses provider to keep track of state. 
 Portrait and landscape layout are supported.
